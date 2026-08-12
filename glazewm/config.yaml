@@ -15,15 +15,15 @@ general:
 
   show_all_in_taskbar: true
 
-  window_animations: true
+  window_animations: false
 
 gaps:
   scale_with_dpi: true
   inner_gap: '5px'
   outer_gap:
-    top: '32px'
+    top: '5px'
     right: '5px'
-    bottom: '5px'
+    bottom: '33px'
     left: '5px'
 
 window_effects:
